@@ -13,3 +13,4 @@ Studies to get an more fluid performance with Ionic and Cordova.
 
 
 That's it, good luck with your studies!!
+
